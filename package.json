@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5-elzdave",
+  "name": "@elzdave/ckeditor5",
   "author": "David Eleazar",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder for my custom needs.",
   "version": "1.0",
